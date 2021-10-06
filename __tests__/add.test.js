@@ -1,3 +1,5 @@
+'use strict';
+
 import { add } from '../index';
 
 it('Adds two numbers', () => {
